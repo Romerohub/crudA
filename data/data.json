@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "gift": "Spotify Premium",
+    "tipo": "Suscripción",
+    "tiempo": "1 mes",
+    "precio": 250,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_714537-MLA53061400161_122022-V.jpg"
+  },
+  {
+    "id": 2,
+    "gift": "XBOX Game Pass Ultimate",
+    "tipo": "Suscripción",
+    "tiempo": "1 mes",
+    "precio": 300,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_991054-MLA44207335557_112020-O.jpg"
+  },
+  {
+    "id": 3,
+    "gift": "HBO Max",
+    "tipo": "Suscripción",
+    "tiempo": "1 mes",
+    "precio": 290,
+    "imagen": "https://i0.wp.com/fhalcongaming.com/wp-content/uploads/2021/07/GIFTC0109_1.png?fit=1080%2C1080&ssl=1"
+  },
+  {
+    "id": 4,
+    "gift": "Netflix",
+    "tipo": "Compra",
+    "tiempo": "1 mes",
+    "precio": 310,
+    "imagen": "https://productosvirtuales.sitioventas.com/wp-content/uploads/2021/12/Netflix-Pin-Tarjeta-de-regalo-1.jpg"
+  },
+  {
+    "id": 5,
+    "gift": "Prime Video",
+    "tipo": "Suscripción",
+    "tiempo": "2 mes",
+    "precio": 289,
+    "imagen": "https://bixxus.com/wp-content/uploads/2021/06/prime-1.jpg"
+  }
+]
+
